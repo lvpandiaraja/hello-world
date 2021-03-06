@@ -1,2 +1,5 @@
-# hello-world
-Learning-myself
+Hi 
+All
+Learning Chaanges
+are made
+to # learn
